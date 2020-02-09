@@ -22,6 +22,6 @@ urllib3>=1.24.2
 Werkzeug==0.15.3
 boto3==1.9.111
 sortednp==0.2.1
-graphene==2.1.6
+graphene==2.1.8
 flask-graphql==2.0.0
 pyyaml==5.1.2
